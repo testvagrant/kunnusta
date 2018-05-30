@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: "Blog"
+    url: /blog
+  - title: "Articles"
+    url: /articles
   - title: "Tools"
     url: /tools
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -13,3 +17,7 @@ main:
 tools-sidebar:
   - title: "Performance"
     url: /performance
+
+authors-sidebar:
+  - title: "Martin Fowler"
+    url: /martinFowler
