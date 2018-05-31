@@ -40,4 +40,4 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
-{% include feature_row %}
+{% include feature_row type='left' %}
