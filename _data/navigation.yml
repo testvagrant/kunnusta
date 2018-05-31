@@ -3,7 +3,7 @@ main:
   - title: "Blog"
     url: /blog
   - title: "Articles"
-    url: /kunnusta/articles
+    url: /articles
   - title: "Tools"
     url: /tools
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

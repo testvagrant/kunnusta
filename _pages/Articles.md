@@ -1,7 +1,7 @@
 ---
 title: "Must Read"
 layout: splash
-permalink: /kunnusta/articles
+permalink: /articles
 date: 2018-05-31T11:48:41-04:00
 header:
   overlay_color: "#000"
