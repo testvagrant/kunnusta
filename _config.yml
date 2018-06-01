@@ -136,6 +136,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _talks
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -256,7 +257,7 @@ compress_html:
     envs: development
 
 collections:
-  articles:
+  mtalks:
     output: true
     permalink: /:collection/:path/
 

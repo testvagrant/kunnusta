@@ -4,6 +4,8 @@ main:
     url: /blog
   - title: "Articles"
     url: /articles
+  - title: "Talks"
+    url: /talks
   - title: "Tools"
     url: /tools
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -18,6 +20,16 @@ tools-sidebar:
   - title: "Performance"
     url: /performance
 
-authors-sidebar:
-  - title: "Martin Fowler"
-    url: /martinFowler
+microservices-talks-sidebar:
+  - title: "Principles of Microservices"
+    url: /mtalks/microserviceprinciples
+  - title: "Security and Microservices"
+    url: /mtalks/microservicesecurity
+  - title: "Mastering Chaos"
+    url: /mtalks/masteringchaos
+  - title: "Docker 101"
+    url: /mtalks/docker101
+  - title: "Kubernetes 101"
+    url: /mtalks/kubernetes
+  - title: "Istio 101"
+    url: /mtalks/istio
