@@ -23,7 +23,7 @@ feature_row:
     title: "S.O.L.I.D Principles"
     excerpt: "Uncle Bob talks about the most important part of Object Oriented Design the S.O.L.I.D principles"
     url: "http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod"
-    btn_label: "Read Now"
+    btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/pageObject.jpg
     alt: "Page Objects"
@@ -40,4 +40,4 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
-{% include feature_row type='left' %}
+{% include feature_row %}

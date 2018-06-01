@@ -59,13 +59,13 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
-# search_full_content      : true, false (default)
-search_provider          : # google
+search_full_content      : true #, false (default)
+search_provider          : algolia
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : 7PP4RA3CB5 # YOUR_APPLICATION_ID
+  index_name             : kunnusta # YOUR_INDEX_NAME
+  search_only_api_key    : bbadea124add940bcf289fb2c77a31be # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
 google:
   search_engine_id       : #"005002665888466085805:nhpphvtj_aq"
   instant_search         : # false
