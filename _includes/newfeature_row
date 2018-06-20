@@ -1,0 +1,21 @@
+{% if include.id %}
+  {% assign feature_row = page[include.id] %}
+{% else %}
+  {% assign feature_row = page.newfeature_row %}
+{% endif %}
+
+<div class="row" style="width:1500px !important">
+  {% for f in feature_row %}
+
+    {% if f.url contains "://" %}
+      {% capture f_url %}{{ f.url }}{% endcapture %}
+    {% else %}
+      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
+    {% endif %}
+
+          {% if f.url %}
+            <a href="{{ f_url }}" class="btn {{ f.btn_class }}" style="width: 20%;">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+          {% endif %}
+  {% endfor %}
+
+</div>

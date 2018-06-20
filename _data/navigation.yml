@@ -20,6 +20,54 @@ tools-sidebar:
   - title: "Performance"
     url: /performance
 
+ui-tools-sidebar:
+  - title: "Selenium"
+    url: /mtools/ui/selenium
+  - title: "Protractor"
+    url: /mtools/ui/protractor
+  - title: "Gauge"
+    url: /mtools/ui/gauge 
+  - title: "WebDriverIO"
+    url: /mtools/ui/webdriverio
+ 
+mobile-tools-sidebar:
+  - title: "Appium"
+    url: /mtools/mobile/appium
+
+webservices-tools-sidebar:    
+  - title: "Postman"
+    url: /mtools/webservices/postman
+  - title: "Retrofit"
+    url: /mtools/webservices/retrofit
+  - title: "SuperTest"
+    url: /mtools/webservices/supertest     
+
+layout-tools-sidebar:
+  - title: "Galen"
+    url: /mtools/layout/galen
+
+performance-tools-sidebar:
+  - title: "Apache JMeter"
+    url: /mtools/performance/jmeter
+  - title: "Gatling"
+    url: /mtools/performance/gatling
+  - title: "Vegeta"
+    url: /mtools/performance/vegeta
+
+security-tools-sidebar: 
+  - title: "Owasp Zap"
+    url: /mtools/security/owaspzap
+
+dashboards-tools-sidebar:
+  - title: "Hygieia"
+    url: /mtools/dashboards/hygieia
+  - title: "Tabler"
+    url: /mtools/dashboards/tabler
+    
+reports-tools-sidebar:
+  - title: "Extent"
+    url: /mtools/reports/extent    
+
 microservices-talks-sidebar:
   - title: "Principles of Microservices"
     url: /mtalks/microserviceprinciples
