@@ -2,7 +2,7 @@
 title: 'Extent'
 layout: multiple
 permalink: /mtools/reports/extent
-excerpt: "ExtentAPI can produce an interactive report, real time reports with slf4j and also email reports which can be mailed right after your unit test session."
+# excerpt: "ExtentAPI can produce an interactive report, real time reports with slf4j and also email reports which can be mailed right after your unit test session."
 knowmore: "http://extentreports.com/"
 sidebar:
   nav: reports-tools-sidebar
@@ -16,3 +16,7 @@ feature_row:
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"   
 ---
+
+ExtentAPI can produce an interactive report, real time reports with slf4j and also email reports which can be mailed right after your unit test session.
+
+{% include feature_row %}

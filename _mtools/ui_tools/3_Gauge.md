@@ -2,7 +2,7 @@
 title: 'Gauge'
 layout: multiple
 permalink: /mtools/ui/gauge
-excerpt: "Gauge is a test automation solution that’s being built by ThoughtWorks"
+# excerpt: "Gauge is a test automation solution that’s being built by ThoughtWorks"
 knowmore: "https://www.gauge.org/"
 sidebar:
   nav: ui-tools-sidebar
@@ -16,4 +16,7 @@ feature_row:
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"  
 ---
+
+Gauge is a test automation solution that’s being built by ThoughtWorks
+
 {% include feature_row %}

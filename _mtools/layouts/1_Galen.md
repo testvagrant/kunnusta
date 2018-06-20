@@ -2,7 +2,7 @@
 title: 'Galen'
 layout: multiple
 permalink: /mtools/layout/galen
-excerpt: "Testing framework"
+# excerpt: "Testing framework"
 knowmore: "http://galenframework.com/"
 sidebar:
   nav: layout-tools-sidebar
@@ -16,4 +16,7 @@ feature_row:
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"  
 ---
+
+Testing framework
+
 {% include feature_row %}

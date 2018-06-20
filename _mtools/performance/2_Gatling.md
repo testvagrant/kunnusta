@@ -2,7 +2,7 @@
 title: 'Gatling'
 layout: multiple
 permalink: /mtools/performance/gatling
-excerpt: "Gatling is designed to treat your performance tests as production code. Maintenance and automation are made easier."
+# excerpt: "Gatling is designed to treat your performance tests as production code. Maintenance and automation are made easier."
 knowmore: "https://gatling.io"
 sidebar:
   nav: performance-tools-sidebar
@@ -16,4 +16,7 @@ feature_row:
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"  
 ---
+
+Gatling is designed to treat your performance tests as production code. Maintenance and automation are made easier.
+
 {% include feature_row %}

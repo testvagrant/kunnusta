@@ -2,7 +2,7 @@
 title: 'Super Test'
 layout: multiple
 permalink: /mtools/webservices/supertest
-excerpt: "HTTP assertions made easy via superagent."
+# excerpt: "HTTP assertions made easy via superagent."
 knowmore: "https://www.npmjs.com/package/supertest"
 sidebar:
   nav: webservices-tools-sidebar
@@ -16,4 +16,7 @@ feature_row:
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"  
 ---
+
+HTTP assertions made easy via superagent.
+
 {% include feature_row %}

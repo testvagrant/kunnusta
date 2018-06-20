@@ -2,7 +2,7 @@
 title: 'Protractor'
 layout: multiple
 permalink: /mtools/ui/protractor
-excerpt: "protractor automation tool to test AngularJS applications"
+# excerpt: "protractor automation tool to test AngularJS applications"
 knowmore: "http://www.protractortest.org/#/api"
 sidebar:
   nav: ui-tools-sidebar
@@ -16,4 +16,7 @@ feature_row:
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"  
 ---
+
+protractor automation tool to test AngularJS applications
+
 {% include feature_row %}

@@ -2,7 +2,7 @@
 title: 'Tabler'
 layout: multiple
 permalink: /mtools/dashboards/tabler
-excerpt: "Premium and Open Source dashboard template with responsive and high quality UI."
+# excerpt: "Premium and Open Source dashboard template with responsive and high quality UI."
 knowmore: "https://github.com/tabler/tabler"
 sidebar:
   nav: dashboards-tools-sidebar
@@ -16,3 +16,7 @@ feature_row:
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"   
 ---
+
+Premium and Open Source dashboard template with responsive and high quality UI.
+
+{% include feature_row %}

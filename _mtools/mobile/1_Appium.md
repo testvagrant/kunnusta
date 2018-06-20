@@ -2,7 +2,7 @@
 title: 'Appium'
 layout: multiple
 permalink: /mtools/mobile/appium
-excerpt: "Automation for apps"
+# excerpt: "Automation for apps"
 knowmore: "http://appium.io/"
 sidebar:
   nav: mobile-tools-sidebar
@@ -18,4 +18,7 @@ feature_row:
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"  
 ---
+
+Automation for apps
+
 {% include feature_row %}

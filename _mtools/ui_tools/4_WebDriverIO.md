@@ -2,7 +2,7 @@
 title: 'WebDriverIO'
 layout: multiple
 permalink: /mtools/ui/webdriverio
-excerpt: "WebdriverIO lets you control a browser with just a few lines of code."
+# excerpt: "WebdriverIO lets you control a browser with just a few lines of code."
 knowmore: "http://webdriver.io/"
 sidebar:
   nav: ui-tools-sidebar
@@ -16,4 +16,7 @@ feature_row:
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"  
 ---
+
+WebdriverIO lets you control a browser with just a few lines of code.
+
 {% include feature_row %}

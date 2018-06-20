@@ -2,7 +2,7 @@
 title: 'Hygieia'
 layout: multiple
 permalink: /mtools/dashboards/hygieia
-excerpt: "Hygieia is a configurable Devops dashboard that provides a real-time, consolidated view of the entire delivery pipeline."
+# excerpt: "Hygieia is a configurable Devops dashboard that provides a real-time, consolidated view of the entire delivery pipeline."
 knowmore: "https://github.com/capitalone/Hygieia"
 sidebar:
   nav: dashboards-tools-sidebar
@@ -16,3 +16,7 @@ feature_row:
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"   
 ---
+
+Hygieia is a configurable Devops dashboard that provides a real-time, consolidated view of the entire delivery pipeline.
+
+{% include feature_row %}

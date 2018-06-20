@@ -2,7 +2,7 @@
 title: 'Retrofit 2'
 layout: multiple
 permalink: /mtools/webservices/retrofit
-excerpt: "A type-safe HTTP client for Android and Java"
+# excerpt: "A type-safe HTTP client for Android and Java"
 knowmore: "http://square.github.io/retrofit/"
 sidebar:
   nav: webservices-tools-sidebar
@@ -16,4 +16,7 @@ feature_row:
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"  
 ---
+
+A type-safe HTTP client for Android and Java.
+
 {% include feature_row %}

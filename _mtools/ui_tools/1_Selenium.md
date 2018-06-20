@@ -2,7 +2,7 @@
 title: 'Selenium'
 layout: multiple
 permalink: /mtools/ui/selenium
-excerpt: "Automates all browser applications"
+# excerpt: "Automates all browser applications"
 knowmore: "https://www.seleniumhq.org/"
 sidebar:
   nav: ui-tools-sidebar
@@ -23,4 +23,7 @@ feature_row:
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"    
 ---
+ 
+ Selenium automates web applications
+
 {% include feature_row %}
