@@ -53,6 +53,8 @@ performance-tools-sidebar:
     url: /mtools/performance/gatling
   - title: "Vegeta"
     url: /mtools/performance/vegeta
+  - title: "Light House"
+    url: /mtools/performance/lighthouse  
 
 security-tools-sidebar: 
   - title: "Owasp Zap"

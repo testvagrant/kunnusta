@@ -4,13 +4,13 @@
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
     {% if site.twitter.username %}
-      <li class="text-right" style="float: right; font-size: 1.2em;"><a href="https://twitter.com/{{ site.twitter.username }}" target="_blank"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a></li>
+      <li style="font-size: 1.0em;"><a href="https://twitter.com/{{ site.twitter.username }}" target="_blank"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a></li>
     {% endif %}
     {% if site.facebook.username %}
-      <li class="text-right" style="float: right; font-size: 1.2em;"><a href="https://www.facebook.com/{{ site.facebook.username }}" target="_blank"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i></a></li>
+      <li style="font-size: 1.0em;"><a href="https://www.facebook.com/{{ site.facebook.username }}" target="_blank"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i></a></li>
     {% endif %}
     {% if site.author.github %}
-      <li class="text-right" style="float: right; font-size: 1.2em;"><a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a></li>
+      <li style="font-size: 1.0em;"><a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a></li>
     {% endif %}
     {% if site.author.gitlab %}
       <li><a href="https://gitlab.com/{{ site.author.gitlab }}"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab</a></li>
@@ -18,7 +18,7 @@
     {% if site.author.bitbucket %}
       <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <!-- <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li> -->
   </ul>
 </div>
 
