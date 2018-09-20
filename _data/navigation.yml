@@ -6,15 +6,10 @@ main:
     url: /articles
   - title: "Talks"
     url: /talks
+  - title: "Books"
+    url: /books
   - title: "Tools"
     url: /tools
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
 
 tools-sidebar:
   - title: "Performance"
