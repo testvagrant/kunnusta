@@ -39,5 +39,12 @@ feature_row:
     url: "https://martinfowler.com/bliki/Lambda.html"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+   - image_path: /assets/images/12factorapp.jpg
+    alt: "12 Factor App"
+    title: "12 Factor App Principles"
+    excerpt: "What makes application great, here are the 12 factors that help us build the next great application"
+    url: "https://12factor.net/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 {% include feature_row %}
