@@ -46,5 +46,19 @@ feature_row:
     url: "https://12factor.net/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/rest.png
+    alt: "Rest"
+    title: "REST Basics"
+    excerpt: "Getting started with REST design principles"
+    url: "https://www.ibm.com/developerworks/library/ws-restful/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/restarch.png
+    alt: "Rest"
+    title: "REST Architecture"
+    excerpt: "Undestanding REST architecture style"
+    url: "https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 {% include feature_row id="feature_row" type="left" %}

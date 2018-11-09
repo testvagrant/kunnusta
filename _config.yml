@@ -262,7 +262,10 @@ collections:
     permalink: /:collection/:path/
   mtools:
     output: true
-    permalink: /:collection/:path/  
+    permalink: /:collection/:path/
+  gitrepos:
+    output: true
+    permalink: /:collection/:path/   
 
 
 # Defaults

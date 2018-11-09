@@ -10,6 +10,8 @@ main:
     url: /books
   - title: "Tools"
     url: /tools
+  - title: "Git Repos"
+    url: /gitrepos
 
 tools-sidebar:
   - title: "Performance"
@@ -24,10 +26,34 @@ ui-tools-sidebar:
     url: /mtools/ui/gauge 
   - title: "WebDriverIO"
     url: /mtools/ui/webdriverio
+  - title: "Puppeteer"
+    url: /mtools/ui/puppeteer
  
 mobile-tools-sidebar:
   - title: "Appium"
     url: /mtools/mobile/appium
+
+git-repos-languages-sidebar:
+  - title: "Java"
+    url: /gitrepos/languages/java
+  - title: "NodeJs"
+    url: /gitrepos/languages/nodejs
+  - title: "Dart"
+    url: /gitrepos/languages/dart
+
+git-repos-security-sidebar:
+  - title: "Web Goat"
+    url: /gitrepos/security/testing
+
+git-repos-git-sidebar:
+  - title: "Git"
+    url: /gitrepos/git/learning
+
+git-repos-learningpath-sidebar:
+  - title: "CS Learning Path"
+    url: /gitrepos/learningpaths/cs
+  - title: "DS Learning Path"
+    url: /gitrepos/learningpaths/ds
 
 webservices-tools-sidebar:    
   - title: "Postman"
