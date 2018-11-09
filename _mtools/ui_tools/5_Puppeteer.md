@@ -17,6 +17,6 @@ feature_row:
   #   btn_class: "btn--inverse"  
 ---
 
-WebdriverIO lets you control a browser with just a few lines of code.
+Headless Chrome Node API 
 
 {% include feature_row %}
