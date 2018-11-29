@@ -61,7 +61,9 @@ webservices-tools-sidebar:
   - title: "Retrofit"
     url: /mtools/webservices/retrofit
   - title: "SuperTest"
-    url: /mtools/webservices/supertest     
+    url: /mtools/webservices/supertest
+  - title: "Karate"
+    url: /mtools/webservices/karate       
 
 layout-tools-sidebar:
   - title: "Galen"
@@ -86,10 +88,18 @@ dashboards-tools-sidebar:
     url: /mtools/dashboards/hygieia
   - title: "Tabler"
     url: /mtools/dashboards/tabler
+  - title: "Glitch"
+    url: /mtools/dashboards/glitch  
     
 reports-tools-sidebar:
   - title: "Extent"
-    url: /mtools/reports/extent    
+    url: /mtools/reports/extent
+  - title: "Allure Reports"
+    url: /mtools/reports/allure
+  - title: "Report Portal"
+    url: /mtools/reports/reportportal
+  - title: "Zafira"
+    url: /mtools/reports/zafira          
 
 microservices-talks-sidebar:
   - title: "Principles of Microservices"

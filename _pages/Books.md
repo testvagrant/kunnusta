@@ -16,6 +16,12 @@ feature_row:
     url: "https://amzn.to/2PLnDuk"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-    
+  - image_path: /assets/images/books_thinklikeaprogrammer.jpg
+    alt: "Think Like a Programmer"
+    title: "Think Like a Programmer"
+    excerpt: "The real challenge of programming isn't learning a language's syntax—it's learning to creatively solve problems so you can build something great"
+    url: "https://www.amazon.in/Think-Like-Programmer-Introduction-Creative/dp/1593274246"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"    
 ---
 {% include feature_row id="feature_row" %}

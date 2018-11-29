@@ -60,5 +60,12 @@ feature_row:
     url: "https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/JavaLogo.png
+    alt: "Java"
+    title: "Dysfunctional programming in Java : A functional tutorial"
+    excerpt: "adopting functional concepts to improve the quality of your software systems"
+    url: "https://medium.com/@johnmcclean/dysfunctional-programming-in-java-a-functional-tutorial-20e0bebd2ec9"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"  
 ---
 {% include feature_row id="feature_row" type="left" %}
