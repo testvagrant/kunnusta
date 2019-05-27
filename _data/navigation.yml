@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Blog"
-    url: /blog
+  - title: "OTAKU"
+    url: /otaku
   - title: "Articles"
     url: /articles
   - title: "Talks"
@@ -12,8 +12,8 @@ main:
     url: /tools
   - title: "Git Repos"
     url: /gitrepos
-  - title: "#OTAKU"
-    url: /otaku
+  - title: "Subscribe"
+    url: /subscribe
 
 tools-sidebar:
   - title: "Performance"
