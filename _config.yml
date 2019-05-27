@@ -266,7 +266,7 @@ collections:
   gitrepos:
     output: true
     permalink: /:collection/:path/
-  otaku:
+  motaku:
     output: true
     permalink: /:collection/:path/     
 
