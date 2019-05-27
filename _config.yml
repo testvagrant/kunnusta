@@ -265,7 +265,10 @@ collections:
     permalink: /:collection/:path/
   gitrepos:
     output: true
-    permalink: /:collection/:path/   
+    permalink: /:collection/:path/
+  motaku:
+    output: true
+    permalink: /:collection/:path/     
 
 
 # Defaults

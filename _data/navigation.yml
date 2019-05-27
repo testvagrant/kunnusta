@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Blog"
-    url: /blog
+  - title: "OTAKU"
+    url: /otaku
   - title: "Articles"
     url: /articles
   - title: "Talks"
@@ -12,6 +12,8 @@ main:
     url: /tools
   - title: "Git Repos"
     url: /gitrepos
+  - title: "Subscribe"
+    url: /subscribe
 
 tools-sidebar:
   - title: "Performance"
@@ -99,7 +101,11 @@ reports-tools-sidebar:
   - title: "Report Portal"
     url: /mtools/reports/reportportal
   - title: "Zafira"
-    url: /mtools/reports/zafira          
+    url: /mtools/reports/zafira
+    
+otaku1-meetup-sidebar:
+  - title: "Agenda"
+    url: /motaku/otaku1/agenda    
 
 microservices-talks-sidebar:
   - title: "Principles of Microservices"
