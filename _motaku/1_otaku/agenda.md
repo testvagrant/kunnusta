@@ -34,6 +34,5 @@ feature_row:
 |Trivia/QUIZ|Swati||
 |What are we automating wrt to new mobile B2C apps|Krishnanand|[Click here](https://drive.google.com/file/d/1GsL1KQ4_hhhFKLOygJwBQzUNqyukTC7-/view?usp=sharing)|
 |Hands-on session - Learn & Practice Mobile automation from ground up|Gaurav/Nishant Sharma|[Click here](https://github.com/testvagrant/AppiumMeetup/tree/references)|
-|Photos||[Click here](https://drive.google.com/drive/folders/1-sUUX8zvEDhjJp15end-OJUy8rheD1eU?usp=sharing)|
 
 {% include feature_row %}
