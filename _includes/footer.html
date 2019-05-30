@@ -1,26 +1,27 @@
 <div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.twitter.username %}
-      <li style="font-size: 1.0em;"><a href="https://twitter.com/{{ site.twitter.username }}" target="_blank"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a></li>
-    {% endif %}
-    {% if site.facebook.username %}
-      <li style="font-size: 1.0em;"><a href="https://www.facebook.com/{{ site.facebook.username }}" target="_blank"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i></a></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li style="font-size: 1.0em;"><a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a></li>
-    {% endif %}
-    {% if site.author.gitlab %}
-      <li><a href="https://gitlab.com/{{ site.author.gitlab }}"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    <!-- <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li> -->
-  </ul>
-</div>
-
-<span class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }}</span>
-<a class="page__footer-copyright" href="http://www.testvagrant.com" target="_blank">{{ site.name | default: site.title }}</a>
+    <ul class="social-icons">
+      {% if site.data.ui-text[site.locale].follow_label %}
+        <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+      {% endif %}
+      {% if site.twitter.username %}
+        <li style="font-size: 1.0em;"><a href="https://twitter.com/{{ site.twitter.username }}" target="_blank"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if site.facebook.username %}
+        <li style="font-size: 1.0em;"><a href="https://www.facebook.com/{{ site.facebook.username }}" target="_blank"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if site.author.github %}
+        <li style="font-size: 1.0em;"><a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if site.author.gitlab %}
+        <li><a href="https://gitlab.com/{{ site.author.gitlab }}"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab</a></li>
+      {% endif %}
+      {% if site.author.bitbucket %}
+        <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+      {% endif %}
+      <!-- <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li> -->
+      <li><a href="http://www.testvagrant.com" target="_blank"><img style="position:absolute; right:0px; bottom:0px; top:0px; width:180px; height:180px" src="/assets/images/testvagrant.com.png"></a></li>
+    </ul>
+  </div>
+  
+  <span class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }}</span>
+  <a class="page__footer-copyright" href="http://www.testvagrant.com" target="_blank">{{ site.name | default: site.title }}</a>
