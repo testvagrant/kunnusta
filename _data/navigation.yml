@@ -120,3 +120,7 @@ microservices-talks-sidebar:
     url: /mtalks/kubernetes
   - title: "Istio 101"
     url: /mtalks/istio
+
+articles:
+  - title: "Object Primer"
+    url: /marticles/object_primer     
