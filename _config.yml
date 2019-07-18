@@ -260,6 +260,9 @@ collections:
   mtalks:
     output: true
     permalink: /:collection/:path/
+  marticles:
+    output: true
+    permalink: /:collection/:path/
   mtools:
     output: true
     permalink: /:collection/:path/

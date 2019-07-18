@@ -8,64 +8,89 @@ header:
   overlay_filter: "0.7"
   overlay_image: /assets/images/Articles.jpg
   caption: "Excerpt from book How Google Tests Software"
-excerpt: "The only way a team can write quality software is when the
-entire team is responsible for quality."
+excerpt: "The only way a team can write quality software is when the entire team is responsible for quality."
 feature_row:
-  - image_path: /assets/images/oops.png
-    alt: "OOPS For Dummies"
-    title: "Object Orientation"
-    excerpt: "An easy primer on object orientation"
-    url: "https://bit.ly/2BSNwlX"
-    btn_label: "Read More"
+  - image_path: /assets/images/object_primer.png
+    alt: ""
+    title: "Object Primer"
+    excerpt: "Few articles on object primer"
+    url: "/marticles/objectprimer/article1"
+    btn_label: "Read Now"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/solid.jpg
-    alt: "Solid Principles"
-    title: "S.O.L.I.D Principles"
-    excerpt: "Uncle Bob talks about the most important part of Object Oriented Design the S.O.L.I.D principles"
-    url: "http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod"
-    btn_label: "Read More"
+    width: 350px
+    height: 300px
+  - image_path: /assets/images/API.png
+    alt: ""
+    title: "API Testing"
+    excerpt: "Few articles on API testing"
+    url: "/mtalks/microserviceprinciples"
+    btn_label: "Read Now"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/pageObject.jpg
-    alt: "Page Objects"
-    title: "Page Object Pattern"
-    excerpt: "Martin Fowler explains in detail about the page object model."
-    url: "https://martinfowler.com/bliki/PageObject.html"
-    btn_label: "Read More"
+    width: 350px
+    height: 300px
+  - image_path: /assets/images/mobile_testing.png
+    alt: ""
+    title: "Mobile Testing"
+    excerpt: "Few articles on Mobile testing"
+    url: "/mtalks/microserviceprinciples"
+    btn_label: "Read Now"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/lambdas.png
-    alt: "Lambdas"
-    title: "Lambdas or Closures"
-    excerpt: "Martin Fowler explains in detail about lambdas"
-    url: "https://martinfowler.com/bliki/Lambda.html"
-    btn_label: "Read More"
+    width: 350px
+    height: 300px
+  - image_path: /assets/images/framework.jpg
+    alt: ""
+    title: "Test Frameworks"
+    excerpt: "Few articles on Framework Development"
+    url: "/mtalks/microserviceprinciples"
+    btn_label: "Read Now"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/12factorapp.jpg
-    alt: "12 Factor App"
-    title: "12 Factor App Principles"
-    excerpt: "What makes application great, here are the 12 factors that help us build the next great application"
-    url: "https://12factor.net/"
-    btn_label: "Read More"
+    width: 350px
+    height: 300px
+  - image_path: /assets/images/design_pattern.jpg
+    alt: ""
+    title: "Test Design Patterns"
+    excerpt: "Few articles on Test Design Patterns"
+    url: "/mtalks/microserviceprinciples"
+    btn_label: "Read Now"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/rest.png
-    alt: "Rest"
-    title: "REST Basics"
-    excerpt: "Getting started with REST design principles"
-    url: "https://www.ibm.com/developerworks/library/ws-restful/"
-    btn_label: "Read More"
+    width: 350px
+    height: 300px
+  - image_path: /assets/images/git.png
+    alt: ""
+    title: "Git"
+    excerpt: "Few articles on version controller (Git)"
+    url: "/mtalks/microserviceprinciples"
+    btn_label: "Read Now"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/restarch.png
-    alt: "Rest"
-    title: "REST Architecture"
-    excerpt: "Undestanding REST architecture style"
-    url: "https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm"
-    btn_label: "Read More"
+    width: 350px
+    height: 300px
+  - image_path: /assets/images/build_tools.png
+    alt: ""
+    title: "Build Tools"
+    excerpt: "Few articles on Build Tools"
+    url: "/mtalks/microserviceprinciples"
+    btn_label: "Read Now"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/JavaLogo.png
-    alt: "Java"
-    title: "Dysfunctional programming in Java : A functional tutorial"
-    excerpt: "adopting functional concepts to improve the quality of your software systems"
-    url: "https://medium.com/@johnmcclean/dysfunctional-programming-in-java-a-functional-tutorial-20e0bebd2ec9"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"  
+    width: 350px
+    height: 300px
+  - image_path: /assets/images/CI-CD.png
+    alt: ""
+    title: "CI/CD"
+    excerpt: "Few articles on CI/CD pipeline"
+    url: "/mtalks/microserviceprinciples"
+    btn_label: "Read Now"
+    btn_class: "btn--inverse"
+    width: 350px
+    height: 300px
+  - image_path: /assets/images/general_articles.png
+    alt: ""
+    title: "Testing"
+    excerpt: "Some General Testing Articles"
+    url: "/mtalks/microserviceprinciples"
+    btn_label: "Read Now"
+    btn_class: "btn--inverse"
+    width: 350px
+    height: 300px                 
 ---
-{% include feature_row id="feature_row" type="left" %}
+
+{% include feature_row %}
