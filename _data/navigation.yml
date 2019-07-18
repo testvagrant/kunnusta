@@ -121,6 +121,16 @@ microservices-talks-sidebar:
   - title: "Istio 101"
     url: /mtalks/istio
 
+object-primer-sidebar:
+  - title: "[Intro] Simple Explanation of OOP"
+    url: /marticles/objectprimer/article1
+  - title: "[Intro] 6 OOP Concepts in Java with examples"
+    url: /marticles/objectprimer/article2
+  - title: "[Medium] Everything you need to know about object oriented programming"
+    url: /marticles/objectprimer/article3
+  - title: "[Medium] S.O.L.I.D Principles"
+    url: /marticles/objectprimer/article4
+
 articles:
   - title: "Object Primer"
     url: /marticles/object_primer     

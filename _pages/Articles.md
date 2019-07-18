@@ -14,7 +14,7 @@ feature_row:
     alt: ""
     title: "Object Primer"
     excerpt: "Few articles on object primer"
-    url: "/marticles/object_primer"
+    url: "/marticles/objectprimer/article1"
     btn_label: "Read Now"
     btn_class: "btn--inverse"
     width: 350px
