@@ -133,4 +133,81 @@ object-primer-sidebar:
 
 articles:
   - title: "Object Primer"
-    url: /marticles/object_primer     
+    url: /marticles/object_primer
+
+api-testing-sidebar:
+  - title: "[Intro] REST API"
+    url: /marticles/apitesting/article1
+  - title: "[Intro] API testing with POSTMAN"
+    url: /marticles/apitesting/article2
+  - title: "[Medium] API testing with REST-Assured"
+    url: /marticles/apitesting/article3
+  - title: "[Advance] REST vs. gRPC: Battle of the APIs"
+    url: /marticles/apitesting/article4
+    
+mobile-testing-sidebar:
+  - title: "[Intro] Appium Setup from Scratch"
+    url: /marticles/mobiletesting/article1
+  - title: "[Intro] Inspect an app with the new appium desktop"
+    url: /marticles/mobiletesting/article2
+  - title: "[Medium] Optimus"
+    url: /marticles/mobiletesting/article3
+  - title: "[Medium] Appium - A Cross-Browser Mobile automation tool"
+    url: /marticles/mobiletesting/article4
+  - title: "[Medium] Mobile Game Testing – Part #2: UI and Functionality + Image Recognition"
+    url: /marticles/mobiletesting/article5
+    
+test-frameworks-sidebar:
+  - title: "[Medium] BDD"
+    url: /marticles/testframework/article1
+  - title: "[Intro] TestNG"
+    url: /marticles/testframework/article2
+  - title: "[Medium] DDT"
+    url: /marticles/testframework/article3
+  - title: "[Intro] Agile Friendly framework"
+    url: /marticles/testframework/article4
+    
+design-patterns-sidebar:
+  - title: "[Intro] 4 Top Automation Testing Design Patterns"
+    url: /marticles/designpatterns/article1
+  - title: "[Intro] Design Patterns every test automation engineer should know"
+    url: /marticles/designpatterns/article2
+  - title: "[Medium] Design Patterns for Scalable Test Automation With Selenium & WebdriverIO"
+    url: /marticles/designpatterns/article3
+  - title: "[Medium] DESIGN PATTERNS IN AUTOMATION TESTING"
+    url: /marticles/designpatterns/article4
+ 
+git-primer-sidebar:
+  - title: "[Intro] Setting up a repository"
+    url: /marticles/gitprimer/article1
+  - title: "[Medium] Understanding Git"
+    url: /marticles/gitprimer/article2
+  - title: "[Advanced] Git tools"
+    url: /marticles/gitprimer/article3
+
+build-tools-sidebar:
+  - title: "[Intro] Gradle Basics"
+    url: /marticles/buildtools/article1
+  - title: "[Intro] Apache Maven"
+    url: /marticles/buildtools/article2
+  - title: "[Intro] Gradle Setup"
+    url: /marticles/buildtools/article3
+  - title: "[Medium] Gradle Custom Plugins"
+    url: /marticles/buildtools/article4
+    
+pipelines-sidebar:
+  - title: "[Intro] CI vs CD"
+    url: /marticles/pipelines/article1
+  - title: "[Advanced] Jenkins"
+    url: /marticles/pipelines/article2
+
+test-articles-sidebar:
+  - title: "[Medium] Just Say No to More End-to-End Tests"
+    url: /marticles/testarticles/article1
+  - title: "[Medium] Overview of Agile Testing Process"
+    url: /marticles/testarticles/article2
+  - title: "[Intro] How To Test Smarter: Explore More, Document Less"
+    url: /marticles/testarticles/article3
+  - title: "[Advanced] The Art of Bug Reporting"
+    url: /marticles/testarticles/article4        
+    

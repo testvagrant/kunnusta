@@ -23,7 +23,7 @@ feature_row:
     alt: ""
     title: "API Testing"
     excerpt: "Few articles on API testing"
-    url: "/mtalks/microserviceprinciples"
+    url: "/marticles/apitesting/article1"
     btn_label: "Read Now"
     btn_class: "btn--inverse"
     width: 350px
@@ -32,7 +32,7 @@ feature_row:
     alt: ""
     title: "Mobile Testing"
     excerpt: "Few articles on Mobile testing"
-    url: "/mtalks/microserviceprinciples"
+    url: "/marticles/mobiletesting/article1"
     btn_label: "Read Now"
     btn_class: "btn--inverse"
     width: 350px
@@ -41,7 +41,7 @@ feature_row:
     alt: ""
     title: "Test Frameworks"
     excerpt: "Few articles on Framework Development"
-    url: "/mtalks/microserviceprinciples"
+    url: "/marticles/testframework/article1"
     btn_label: "Read Now"
     btn_class: "btn--inverse"
     width: 350px
@@ -50,7 +50,7 @@ feature_row:
     alt: ""
     title: "Test Design Patterns"
     excerpt: "Few articles on Test Design Patterns"
-    url: "/mtalks/microserviceprinciples"
+    url: "/marticles/designpatterns/article1"
     btn_label: "Read Now"
     btn_class: "btn--inverse"
     width: 350px
@@ -59,7 +59,7 @@ feature_row:
     alt: ""
     title: "Git"
     excerpt: "Few articles on version controller (Git)"
-    url: "/mtalks/microserviceprinciples"
+    url: "/marticles/gitprimer/article1"
     btn_label: "Read Now"
     btn_class: "btn--inverse"
     width: 350px
@@ -68,7 +68,7 @@ feature_row:
     alt: ""
     title: "Build Tools"
     excerpt: "Few articles on Build Tools"
-    url: "/mtalks/microserviceprinciples"
+    url: "/marticles/buildtools/article1"
     btn_label: "Read Now"
     btn_class: "btn--inverse"
     width: 350px
@@ -77,7 +77,7 @@ feature_row:
     alt: ""
     title: "CI/CD"
     excerpt: "Few articles on CI/CD pipeline"
-    url: "/mtalks/microserviceprinciples"
+    url: "/marticles/pipelines/article1"
     btn_label: "Read Now"
     btn_class: "btn--inverse"
     width: 350px
@@ -86,7 +86,7 @@ feature_row:
     alt: ""
     title: "Testing"
     excerpt: "Some General Testing Articles"
-    url: "/mtalks/microserviceprinciples"
+    url: "/marticles/testarticles/article1"
     btn_label: "Read Now"
     btn_class: "btn--inverse"
     width: 350px
